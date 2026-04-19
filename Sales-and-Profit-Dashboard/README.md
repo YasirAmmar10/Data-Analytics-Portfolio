@@ -9,7 +9,7 @@ This project analyzes sales and profit data using Excel to identify trends and g
 ## 📊 Key Insights
 - West region generated the highest profit
 - Technology category performed best
-- Some products resulted in losses
+- Profit peaks in September and December highlighting seasonal trends.
 
 ## 📷 Dashboard Preview
 
