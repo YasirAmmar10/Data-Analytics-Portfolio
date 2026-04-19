@@ -1,6 +1,6 @@
-# 📊 Sales and Profit Dashboard
+# Sales and Profit Dashboard
 
-## 📌 Project Overview
+## Project Overview
 This project analyzes sales and profit data using Excel to identify trends and generate business insights.
 
 ## 🛠 Tools Used
@@ -19,5 +19,5 @@ This project analyzes sales and profit data using Excel to identify trends and g
 ## 📁 Dataset
 - SampleSuperstore.csv
 
-## 🎯 Conclusion
+## Conclusion
 This dashboard helps understand sales performance and supports data-driven decision-making.
