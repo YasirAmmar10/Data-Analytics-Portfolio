@@ -34,7 +34,7 @@ I am a BSCS student with a strong interest in Data Analytics, focused on transfo
 ## Connect with Me
 
 * LinkedIn:
-* https://www.linkedin.com/in/yasir-ammar 1b6a94284
+* https://www.linkedin.com/in/yasir-ammar-1b6a94284
 ---
 
 ⭐ This repository showcases Data Analytics project and practical work.
